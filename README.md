@@ -22,6 +22,23 @@ Rime 三部曲——中州韻、小狼毫、鼠鬚管。
 選自歐陽脩詩[《奉送原甫侍讀出守永興》][4]和[《Rime 心情集》][5]。
 不會唱；本意是用作輸入法跟打演示。
 
+## 續作〈東風破〉
+
+韻畧易通〈早梅詩〉
+
+作者：明 · 蘭茂
+
+東風破早梅\
+向暖一枝開\
+冰雪無人見\
+春從天上來
+
+居戎氏業餘譜曲。[音樂視頻][8]
+
+後半段錄《Rime 心情集》兩篇：〈吾本兔斯基〉〈☯ 混元編碼器〉。
+
+RIME 輸入法配方集，名爲「東風破」，亦出自《早梅詩》，取融會古今音韻之意。
+
 ## 授權
 
 [姓名标示-相同方式分享 4.0][6] ([CC BY-SA 4.0][7])
@@ -33,3 +50,4 @@ Rime 三部曲——中州韻、小狼毫、鼠鬚管。
 [5]: https://github.com/rime/home/wiki/MoodCollection
 [6]: https://creativecommons.org/licenses/by-sa/4.0/deed.zh-hans
 [7]: https://creativecommons.org/licenses/by-sa/4.0/
+[8]: https://www.bilibili.com/video/BV1Dkk9BrEYy/
