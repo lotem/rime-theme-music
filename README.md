@@ -15,7 +15,7 @@ Rime 三部曲——中州韻、小狼毫、鼠鬚管。
 ## 曲譜
 
 倉庫裏放 MuseScore 稿件及從中導出的 MIDI 音樂和 PDF 曲譜。
-試聽成品請移步 [Rime 網誌][2] 或 [B 站][3]。
+試聽成品請移步 [Rime 網誌][2] 或 B 站：[合奏版][9] | [鋼琴版][3]
 
 ## 歌詞
 
@@ -51,3 +51,4 @@ RIME 輸入法配方集，名爲「東風破」，亦出自《早梅詩》，取
 [6]: https://creativecommons.org/licenses/by-sa/4.0/deed.zh-hans
 [7]: https://creativecommons.org/licenses/by-sa/4.0/
 [8]: https://www.bilibili.com/video/BV1Dkk9BrEYy/
+[9]: https://www.bilibili.com/audio/am1280271264
