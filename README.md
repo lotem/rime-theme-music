@@ -39,6 +39,17 @@ Rime 三部曲——中州韻、小狼毫、鼠鬚管。
 
 RIME 輸入法配方集，名爲「東風破」，亦出自《早梅詩》，取融會古今音韻之意。
 
+## 後記：構思中的原作出爐
+
+這首 Rime 主題曲借用了多年來構思的樂曲旋律。
+構思中的原作題目宏大，因此詞作一直未能完成。
+
+而今，填詞、編曲的思路逐漸齊備，又有電腦參謀建議，兩首詞曲終於出爐。
+請欣賞——
+
+- 式恕堂｜[音樂視頻][10]｜[詞作 · 創作感言][12]
+- 河之南｜[音樂視頻][11]｜[詞作 · 創作感言][13]
+
 ## 授權
 
 [姓名标示-相同方式分享 4.0][6] ([CC BY-SA 4.0][7])
@@ -52,3 +63,7 @@ RIME 輸入法配方集，名爲「東風破」，亦出自《早梅詩》，取
 [7]: https://creativecommons.org/licenses/by-sa/4.0/
 [8]: https://www.bilibili.com/video/BV1Dkk9BrEYy/
 [9]: https://www.bilibili.com/audio/am1280271264
+[10]: https://www.bilibili.com/video/BV1pQLg6GEDv/
+[11]: https://www.bilibili.com/video/BV1UsGL6sEGA/
+[12]: https://rime.im/blog/shishutang/
+[13]: https://rime.im/blog/hezhinan/
